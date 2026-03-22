@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "TOUCH",
+  "base_artist": "keshi",
+  "createdAt": "2026-03-22T07:46:49.861781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Out of Touch (Remastered)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/01_Out_of_Touch_(Remastered)_Daryl_Hall_&_John_Oates.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Touch And Go Crazy",
+      "artist": "Lee Greenwood",
+      "has_synced": false,
+      "path": "select/02_Touch_And_Go_Crazy_Lee_Greenwood.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Touch The Hand",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/03_Touch_The_Hand_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Touch The Hand (Single Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/04_Touch_The_Hand_(Single_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You've Got the Touch",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/05_You've_Got_the_Touch_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touch My Body",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/06_Touch_My_Body_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touch the Sky",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/07_Touch_the_Sky_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lil' Touch",
+      "artist": "Girls' Generation-Oh!GG",
+      "has_synced": true,
+      "path": "select/08_Lil'_Touch_Girls'_Generation-Oh!GG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "몰랐니 (Lil' Touch)",
+      "artist": "Girls' Generation-Oh!GG",
+      "has_synced": true,
+      "path": "select/09_몰랐니_(Lil'_Touch)_Girls'_Generation-Oh!GG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "몰랐니 (Lil' Touch) (Inst.)",
+      "artist": "Girls' Generation-Oh!GG",
+      "has_synced": false,
+      "path": "select/10_몰랐니_(Lil'_Touch)_(Inst.)_Girls'_Generation-Oh!GG.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Destroy Everything You Touch",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/11_Destroy_Everything_You_Touch_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Destroy Everything You Touch - Hot Chip Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/12_Destroy_Everything_You_Touch_-_Hot_Chip_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Destroy Everything You Touch (Hot Chip Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/13_Destroy_Everything_You_Touch_(Hot_Chip_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Destroy Everything You Touch - Playgroup Vocal Edit",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/14_Destroy_Everything_You_Touch_-_Playgroup_Vocal_Edit_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Destroy Everything You Touch (Sasha Involv2er Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/15_Destroy_Everything_You_Touch_(Sasha_Involv2er_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOUCH",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_TOUCH_keshi.txt"
+    }
+  ]
+}
